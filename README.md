@@ -1,4 +1,4 @@
-# Operating System Interview Codes (C++)
+# Operating System Important Codes (C++)
 
 This repository contains important Operating System algorithms organized by topic for interview preparation.
 
@@ -9,7 +9,7 @@ This repository contains important Operating System algorithms organized by topi
 - SJF (Non-Preemptive)
 - Priority Scheduling (Non-Preemptive)
 - Round Robin
-- `interview_main.cpp` menu driver
+- `main.cpp` driver
 
 ### 2) Page Replacement / Memory Management (`page_scheduling_algos`)
 - FIFO
