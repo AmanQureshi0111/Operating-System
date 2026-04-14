@@ -1,4 +1,4 @@
-# Operating System Interview Codes (C++)
+# Operating System Important Codes (C++)
 
 This repository contains important Operating System algorithms organized by topic for interview preparation.
 
